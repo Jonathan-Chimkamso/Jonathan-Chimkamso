@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Chimkamso Joshua
 
-**Computer Science Student | Aspiring Cybersecurity Analyst|Software Developer|IT Support & Problem Solver**
+**Computer Science Student | Aspiring Cybersecurity Analyst| Software Developer|IT Support & Problem Solver**
 📍 Lagos, Nigeria
 
 ---
