@@ -9,7 +9,7 @@
 **About Me:**
 I'm a Computer Science student at Vision University, Ikogbo, passionate about technology, problem-solving, and cybersecurity. I love helping people fix tech issues and I'm building my path into cybersecurity.
 
-I'm currently learning and open to collaborating, internships, and junior roles in IT Support, Technical Support, and Cybersecurity.
+I'm currently learning and open to collaborating, internships, and junior roles in Software Developing,IT Support, Technical Support, and Cybersecurity.
 
 **🛠️ Skills:**
 - IT Support & Troubleshooting
